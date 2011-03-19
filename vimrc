@@ -127,6 +127,9 @@ nmap <leader>n :NERDTree<CR>
 " Change to directory of file
 nmap <silent> <leader>c :cd %:h<CR>
 
+" ZoomWin Shortcut
+nmap <leader>z <c-w>o
+
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Languages
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
